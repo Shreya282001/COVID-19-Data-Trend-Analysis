@@ -7,7 +7,6 @@ This project performs end-to-end analysis of global COVID-19 data using PySpark 
 # Dataset Link - https://github.com/CSSEGISandData/COVID-19/blob/master/csse_covid_19_data/csse_covid_19_daily_reports/01-01-2021.csv
 
 Folder Structure
-- data: Contains raw data files such as covid19_dataset.csv
 - output: Stores processed output data generated from Spark jobs
 - notebooks: Jupyter notebooks for exploratory analysis and final reporting
 - scripts: Python scripts used for processing and visualization
