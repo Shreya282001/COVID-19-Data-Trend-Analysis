@@ -49,5 +49,4 @@ Notes
 - Output files (processed CSVs) will be generated in the output folder
 - Streamlit app supports interactive filtering and real-time metric display
 
-Author
 This project was created as part of a Cloud Computing course to demonstrate scalable data analysis and visualization techniques.
