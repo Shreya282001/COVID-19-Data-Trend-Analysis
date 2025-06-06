@@ -1,7 +1,10 @@
+
 COVID-19 Data Trend Analysis
 
 Overview
 This project performs end-to-end analysis of global COVID-19 data using PySpark for large-scale processing and Streamlit for interactive visualization. It is designed to extract trends such as daily confirmed cases, deaths, recoveries, and recovery rates. The project also includes a final report notebook for visualization and a dashboard app for user exploration.
+
+# Dataset Link - https://github.com/CSSEGISandData/COVID-19/blob/master/csse_covid_19_data/csse_covid_19_daily_reports/01-01-2021.csv
 
 Folder Structure
 - data: Contains raw data files such as covid19_dataset.csv
